@@ -14,3 +14,7 @@ Course: Software Development Skills: Full-Stack
 - Node.js
 - Redux Toolkit
 - JWT authentication
+
+The application runs locally and is not hosted online
+
+DEMO VIDEO: (https://medal.tv/games/screen-capture/clips/n7chUhzyXow8omYYX?invite=cr-MSxCVWssNDk2MDExODc4)
